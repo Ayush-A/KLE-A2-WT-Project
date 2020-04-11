@@ -48,6 +48,8 @@ npm run development
 
 
 
-<h3>Special thanks to my team for support</h3>
+<h3>Team work</h3>
+Alone we can do so little; together we can do so much.
 
-![](http://i.imgur.com/Ssfp7.gif)
+
+![Team](https://media.giphy.com/media/QWwEdgDbYjFbfOMJ3z/giphy.gif)
